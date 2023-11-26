@@ -1,0 +1,13 @@
+
+- Peloader --- DONE
+
+- Custom preloader ---
+
+- Add API PROJECT ---
+
+Dalam kasus kita, kira akan tampilin github profile kita pake API
+https://youtu.be/Xhg-0mqxngA?si=WvGqBdeXuukz1vCF
+
+
+- Custom API PROJECT ---
+
